@@ -17,6 +17,8 @@ The final visualization is on Tableau since it was a better graphic approach for
 [Airbnb Mallorca Data Analysis Rent Prices and more](https://public.tableau.com/views/AirbnbMallorcaDashboard/Historia1?:language=es-ES&:display_count=n&:origin=viz_share_link
 "Link to Tableau Dashboard")
 
+Thanks!
+
 
 
 
