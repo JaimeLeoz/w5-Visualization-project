@@ -1,7 +1,7 @@
 
 # Airbnb Mallorca Project: Visualization
 
-![portada](../w5-Visualization-project/Captura%20de%20Pantalla%202022-09-11%20a%20las%2018.02.14.png)
+![portada](./Captura%20de%20Pantalla%202022-09-11%20a%20las%2018.12.39.png)
 
 
 ## Overview
